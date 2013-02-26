@@ -2,6 +2,7 @@ package Notes;
 use Dancer2 ':syntax';
 use Text::Markdown 'markdown';
 use Path::Tiny (); # this stop import anythings
+use Pod::Simple::XHTML;
 our $VERSION = '0.1';
 
 my $home = config->{appdir};
@@ -27,7 +28,16 @@ prefix '/notes' => sub {
             pass if ($dir_notes->child($filename)->is_dir);
             my $content  = get_content($dir_notes,$filename);
             if ($filename =~/md/) {
+                
                  $content = markdown($content);
+            }
+
+            if ($filename =~/pod$/) { 
+                my $psx = Pod::Simple::XHTML->new;
+                $psx->output_string(\my $html);
+                $psx->html_charset('UTF-8');
+                $psx->parse_string_document($content);     
+                $content = $html;
             }
             return template 'content.tt', { content => $content};
         };
@@ -41,8 +51,16 @@ prefix '/notes' => sub {
         get '/*/*' => sub {
             my ($dir, $filename) = splat;
             my $content  = get_content($dir_notes->child($dir),$filename);
-            if ($filename =~/md/) {
+            if ($filename =~/md$/) {
                  $content = markdown($content);
+            }
+            
+            if ($filename =~/pod$/) { 
+                my $psx = Pod::Simple::XHTML->new;
+                $psx->output_string(\my $html);
+                $psx->html_charset('UTF-8');
+                $psx->parse_string_document($content);     
+                $content = $html;
             }
             return template 'content.tt', {  content => $content};
         };
