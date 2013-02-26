@@ -1,0 +1,7 @@
+1. restart 
+
+sudo /etc/init.d/mysql restart
+
+2. change password
+
+

@@ -1,0 +1,64 @@
+* Chapter 3
+** describe
+(describe 'nthcdr)
+decribe takes any lisp object and prints a description of that object. 
+
+**  equal and equalp
+equal 忽略大小写与数字类型（number type）
+** eq and eql
+
+* Chapter 4
+** binding and environment
+binding is the pairing of a variable and a value.
+environment is the collection of bindings that are accessible at a given time.
+1. all the variables in the argument list of the function currently being executed 
+2.
+
+** let and shoadowing
+LET allows you to add more local variables when you employ a value, yielded by
+a calculation, more than once inside a function and do not wish to repeat the 
+calcultion.
+
+(defun circle-area (diameter)
+ (let (( radius (/ diameter 2)))
+  (* radius radius pi)))
+** let bind in parellel, let* bind in sequence
+
+
+
+
+(setq command "I am the value")
+"I am the value"
+(defun hello()
+  (message "I am the function"))
+hello
+
+(fset 'command 'hello)
+(eval command)
+"I am the value"
+(command)
+"I am the function"
+(
+(symbol-value 'command)
+(setq commandfun (message "I an the function in value"))
+"I an the function in value"
+(eval commandfun)
+"I an the function in value"
+(funcall 'commandfun)
+(setq foo (lambda (x) (* 3 x)))
+(lambda (x) (* 3 x))
+(funcall foo 5)
+15
+(eval foo 5)
+
+(apply '+ 1 2 '(3 4)) 
+
+
+
+eval与 funcall的区别？
+
+(eval FORM)
+
+Evaluate FORM and return its value.
+
+

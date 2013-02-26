@@ -1,0 +1,86 @@
+
+* Ask for comment--Priliminary study: maternal behavior
+
+** Problem statement
+When talking about whether we should put the mather with the nymphs while we settle up a population, Dr.Appel 
+said the nymphs usually huddle arond the mother. Actually, I observed the behaivor when I was in China. Since 
+the population we had in China was set up without the mother and they grew pretty well, so I don't think the existance
+of mother really matter. However, I think we'd better conduct a experiment to verify that.
+
+** Hypothesis
+
+The existance of mather will not effects the growth of the nymphs.
+
+** Methods
++ divide the mymphs from the same female into 2 group, 10 nymphs in one group. keep them in the same environment.
++ Everything are indentical except that in the group 2, the mather exist.
++ three or four repetion will be established.
++ weight the change of every group monthly
+** Data analysis
+
+Paired-t test
+
+** Timeline
++ August 29,2011 initial, keep one female and two male in one jar.
++ August 29,2011 - present, when the nymph appear, divide into 2 group, 10 nymphs in one group
++ present-Novermber. weigh the change of every group monthly.
+
+
+
+* Introduction 
+   problem statement 
+      long-term goals
+   overall hypothesis
+   suporting objectives
+   Hypotheses for objectives.
+
+One project is to develop a complete life history and temperature-development
+ relationship for one or two cockroach species of economic importance.
+ In particular, the Guiana orange spotted cockroach, Blaptica dubia. 
+Although they are not considered pests, they are very important as "feeder 
+species" for those that keep pet lizards, turtles, spiders, and other 
+predacious animals. I think this project could be very useful and would 
+demonstrate your abilities to rear insects, determine instars, measure stadia,
+ measure fecundity and longevity, develop a degree-day model, and examine
+ various aspects of maternal behavior, courtship, aggregation, and other 
+aspects of cockroach biology. I also think that these studies would make 
+excellent publications in the scientific literature.  
+Do you have comments or suggestions?   
+
+
+Life history of Dubia Cockroach /Blaptica dubia/
+
+
+Dubia cockroaches have become polular as a food source for reptiles and amphibians. It is crucial to
+address their biology to utilize this species in a better way. Althogh there are plenty of researches about cocokraches, such as German cockroach, /Blattella germanicai/,smokybrown cockroach /Periplaneta fuliginosai/,
+ and  American cockroach /Periplaneta americanai/, there are few scientific research about this species.
+
+The goal of this project is to develop a complete life history and temperature-development relationship of Dubia cockroaches /Blaptica Dubia/.
+During this project, two objectives will be prusured.
+1. instar determination using mixture model analysis. The hypothis of this objective is that The hyposthesis is that the mixture model will be more accurate than other methods such as Dyar's law in instar determination.
+2. Temperature-Dependent development of Dubia cockroaches /Blaptica Dubia/. The hypothsis is that there is a best temperature range for the development of Dubia cockroaches /Blaptica Dupia/
+
+
+
+
+* instar determination using mixture model analysis
+
+Instar determination has been very important in studying growth, ecology, and pest managment.
+ Dyar's law is very
+important in this area, but for some species, it doesn't fit very well. 
+The goal is to find a better way on instar determination.
+Overall hypthesis. The hyposthesis is that the mixture model will be more accurate in instar determination.
+In this project, some parameters,such as head with, prothorax width  will be measured.
+ Firstly, Brook-Dyar's law
+will be test, and then mixture model analysis will be carried out.The R language and the Mixtools pakage 
+will be used in the mixture model analysis.The mixture modle analysis method will provide alternative
+ approach to Brook-Dyar's law, especially when 
+Brook-Dyar's law fail. 
+
+* development model
+
+
+
+
+
+* 

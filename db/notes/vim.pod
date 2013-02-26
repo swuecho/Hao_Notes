@@ -1,0 +1,40 @@
+=pod
+
+=head1 Vim Notes
+
+essential note of vim usage
+
+=head1 Basic Command
+
+
+=head2 :s/foo/bar/g
+    
+    This is code 
+    this is code too
+
+Find each 'foo' and replace it with 'bar'
+    
+    another line of code
+
+=head2 :%s/foo/bar/g
+
+Find all the occurance of 'foo' and replace it with 'bar'
+
+=head1 See Also
+
+=over 8
+
+
+=item item1
+
+this is the first item
+
+=item item2
+
+this is the second item
+
+=back
+
+probably more are there.:x
+
+=cut

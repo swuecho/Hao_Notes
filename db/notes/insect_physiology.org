@@ -1,0 +1,151 @@
+* Insect Development and Endocrine System
+
+Prothoracic glands produce and release ecdysteroids only after they have been stimulated by another chemical messenger, prothoracicotropic hormone (PTTH for short).   This compound is a peptide hormone secreted by the corpora cardiaca, a pair of neurohemal organs located on the walls of the aorta just behind the brain.   The corpora cardiaca release their store of PTTH only after they receive a signal from neurosecretory cells in the brain.   In a sense, they act as signal amplifiers -- sending out a big pulse of hormone to the body in response to a small message from the brain. 
+
+The corpora allata, another pair of neurohemal organs, lie just behind the corpora cardiaca.   They manufacture juvenile hormone (JH for short), a compound that inhibits development of adult characteristics during the immature stages and promotes sexual maturity during the adult stage.   Neurosecretory cells in the brain regulate activity of the corpora allata -- stimulating them to produce JH during larval or nymphal instars, inhibiting them during the transition to adulthood, and reactivating them once the adult is ready for reproduction.   The chemical structure of juvenile hormone is rather unusual:   it is a sesquiterpene compound -- more similar to defensive chemicals found in pine trees than to any other animal hormone.
+
+The neurosecretory cells are found in clusters, both medially and laterally in the insect's brain.   Axons from these cells can be traced along tiny nerves that run to the corpora cardiaca and corpora allata.   The cells produce and secrete brain hormone, a low-molecular-weight peptide that appears to be the same as (or very similar to) prothoracicotropic hormone (PTTH) manufactured by the corpora cardiaca.   Insect physiologists suspect that brain hormone is bound to a larger carrier protein while it is inside the neurosecretory cell, and some believe that each cluster of cells may produce as many as three different brain hormones (or hormone-carrier combinations).   Large numbers of neurosecretory cells also occur in the ventral ganglia of the nerve cord, but their function is unknown.
+
+(source: http://www.cals.ncsu.edu/course/ent425/tutorial/endocrine.html)
+
+** PTTH
+
+PTTH is a homodimer of two polypeptids of 109 amino acids.
+
+PTTH does not drive pupation directly but, as its name suggests, act on
+__Prothoracic gland__.
+
+
+** Juvenile Hormones, Ecdysones
+Ecdysone 
+
+There are two prothoracic glands located in the thorax. Under the
+influence of PTTH, the secret the steroid hormone ecdysone.
+
+
+Juvenile Hormons
+
+Juvenile Hormones is found by wiggleworth
+1. Juvenile hormone is secreted by two tiny gland behind the brain, the
+Corpora allata
+2. fuction:
+they play a role in every side of insect developent and reproduction, including
+metamorphorphosis, caste determination in social insects, the regulation of behaviour in
+honeybee colonies, the polyphenisms of aphids and locusts, larval and adult diapause
+regulation, vitellogenin synthesis, ovarian development, and viours aspects of metabolism
+associated with these fuctions.
+      
+** Neurohormones, Second Message, and Anti-Hormones
+
+* Digestion and Nutrition
+
+** Alimentary Tract, Digestion and Absorption
+
+Alimentray systerm:
+
+Forgut
+only do partial digestion using the enzyme from salivary glands.
+*** salivary glands:
+*** pharynx :
+*** esophagus : conection between pharynx and the crop
+*** crop:
+*** proventriculus:
+Midgut
+*** teeth (proventricular plates):
+*** gastric caeca:
+*** ventriculus:
+*** Malpighian tubules:
+
+Hindgut
+Regulation movement from midgut to hindgut; reabsorption of ion, water and small
+molecule; excretion.
+*** pylorus: regulate the movement
+*** ileum: (microbateria environment for wood eating insects)
+*** rectum: reabsorption
+the rectum is usually an enlarged sac with a thin epithelium except for certain
+
+*** rectal pads:
+
+
+*** malpighian tubles: excretion and reabsorption.
+
+
+
+
+***  anus
+*** Peritrophic membrane
+
+1. Protection of the delicate microvilli on the surface of midgut cells from
+contact with rough food particles.
+2. A barrier agaist entry of viruses, bacteria, or other parasites that would be
+too large to pass through the unbroken PM
+3. An aid in preventing the rapid excretion of digestive enzymes.
+4. Compartmentalization of digestion within the midgut.
+5. Prevention of nonspecific binding of undigested materials or plant allelochemicals
+to midgut microvillar surfaces and/or binding to transport proteins at midgut
+surface.
+
+
+
+* Metabolism
+
+* fat storage
+
+1. Most fat in most animals is oxidized for the generation of ATP, to drive metabolic
+processes.
+
+2. Some specilized cells () oxidize the triacylglycerols for heat production, rather than
+to make ATP.
+
+3. In animals that must live in a cold environment, layers of fat cells under the skin serve
+as thermal insulation.
+
+
+
+** in vitro Metabolism
+
+** Cytochrome P450s
+
+** Reactions and Functions
+
+* Ion Blance:
+
+** Malpighian Tublues
+
+1.maintain a constant level of salts , water and osmosis pressure.
+2. eliminate of toxic nitrogenous wastes.
+3. reaborption of ion, water, sugar.
+
+** composition of primary urine
+1. ions, Na,cl,K, SO4,PO4,Mg,Mn,
+2. Nitrogenous
+3. sugar
+4. Toxic metabolites.
+
+** Excretion, Fuction of Rectum,
+
+1. the major modifaction of primary urine
+2. regulation the water balance.
+
+** Passive and Active Transport of Ions,
+Factor influence the transport of ions:
+1. concentration of ion gradient.
+2. polar or not 
+3. electrochem gridient
+4. premeability of membrance.
+
+Osmosis:
+the movement of water through a semi-membrance from a solution of less concentration into
+one of the greater solution concetration.
+Osmosis pressure:
+The force per unit area, or pressure, required to prevent the passage of 
+water through a selectively permeable membrane and into a solution of greater
+concentration is equivalent to the osmotic pressure of the solution.
+
+1. passive diffision
+2. active transprot (polar, big molecular)
+3. facilated transprot or facilated diffusion. still need carriar but no energy)
+
+** Resorption, BT Mechanishm
+
+

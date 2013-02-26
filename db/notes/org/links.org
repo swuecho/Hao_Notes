@@ -1,0 +1,6 @@
+#+SETUPFILE: C:Users/echo/Dropbox/org/org-templates/t0.org
+#+LINK_UP:index.html
+#+LIMK_HOME:index.html
+有用的链接
+
+[[http://ihome.ust.hk/~eeyang/Links.html][统计牛人]]

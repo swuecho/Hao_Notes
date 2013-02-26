@@ -1,0 +1,28 @@
+(+ 4 3)this
+is a buf
+
+
+这里的字体已经很好看了。
+
+(point)
+;;(beginning-of-line)  
+
+;;注释选定的区域=在每一行的开始加上;;
+;;
+( defun
+  fold
+  "Applies (f x ele) recursively to the list li ..."
+  (f x li)
+  ( let
+    (
+      (li2 li)
+      (ele)
+      (x2 x)
+    )
+    (while
+      (setq ele (pop li2))
+      (setq x2 (funcall f x2 ele))
+    )
+    x2
+  )
+)

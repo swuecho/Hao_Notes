@@ -1,0 +1,5 @@
+* tabs
+1. vim -p *.txt
+2. switch between different tabs. gt
+3. :tabnew open a empty tab :tabe fn open a fn in new tab
+4.

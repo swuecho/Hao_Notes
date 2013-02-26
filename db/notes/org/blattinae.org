@@ -1,0 +1,88 @@
+* ployzosteriinae亚科
+**  21 genus Scabinopsis Bei-Bienko, 1969
+雌性前翅退化，方形，稍有重叠，有明显的翅脉。后翅不发达。足短，后足跗节第一节比其余几节总长短，腹面具刺，爪垫超过其长度的1/3。
+
+**   5 genus Celatoblatta Johns, 1966
+**   10 genus Eumethana Princis, 1951
+**  18 genus Pelmatosilpha Dohrn, 1887
+已经并入ployzosteria亚科。
+
+去掉的 heni Rehn
+
+* 雄性中胸与后胸后角有一薄层膜状突出。第一背板有腺体开口
+    20 genus Pseudoderopeltis Krauss, 1890
+   
+类似大蠊属Periplaneta Burmeister,但雄性中胸与后胸后角有一薄层膜状突出。
+第一背板有腺体开口。雌性有叶状的前翅。第六七背板后角尖锐，向后伸。前足A3型，跗节类似Blatta
+
+与实验室所具的无翅种类相比？？ 继续查找此种类的资料。
+    
+
+* 两性完全无翅 
+**  1 genus Apterisca Princis, 1963
+**  3 genus Brinckella Princis, 1963
+**  16 genus Miostylopyga Princis, 1966
+
+* 雄性第一背板特化，具一束毛丛。(是不是所有的蜚蠊第一背板都要特化？）
+
+**    11 
+
+* 雄性翅发达超过腹部末端
+==========================
+**  9 genus Eroblatta Shelford, 1910
+  前胸背板近正方形（rectangular）
+**  13 genus Homalosilpha St?l, 1874
+  三排刺
+**  15 genus Mimosilpha Bei-Bienko, 1957
+  两排刺
+** 23 genus Thyrsocera Burmeister, 1838
+前胸背板梯形。
+
+** 19 genus Periplaneta Burmeister, 1838
+ 日本大蠊是个意外。为何不把日本大蠊独立出来？
+
+========================
+**   4 genus Cartoblatta Shelford, 1910
+雌雄异型，雄性翅发达，超过腹部末端；雌性前翅退化，方形，侧缘倾斜，不覆盖腹部第一背板。
+
+**    6 genus Deropeltis Burmeister, 1838
+雄性，前翅发达，通常不短于腹部末端；雌性无翅。
+
+前翅发达，通常不短于腹部末端， 雌性无翅。
+
+**  22 genus Shelfordella Adelung, 1910
+
+**   2 genus Blatta Linnaeus, 1758
+
+     雌雄异形，雄性翅发达，雌性翅仅及中胸。
+
+
+
+
+* 斑蠊类的区别？
+
+** 小型种类（仅12mm）
+
+** 12 genus Henicotyle Rehn & Hebard, 1927
+
+再次查看该属的详细资料。
+Neostylopyga Shelford, 1911
+
+genus Maoriblatta Princis, 1966 
+
+* 两性相似，翅均不发达。
+**  14 genus Maoriblatta Princis, 1966
+雌雄前翅皆叶片状，后翅退化。雄性背板不特化。5~7背板后角尖锐。后足跗节1-4节具爪垫，基跗节处长于该节一半。爪对称，有发达的爪间突。
+实验室未知种类，可能为斑蠊。
+
+**  17 genus Neostylopyga Shelford, 1911
+
+
+
+* TODO 
+
+查找洞穴蠊的资料。NOCTICOLINAE
+查找BLATTA与SHELFORDLA的区别。
+查找斑蠊的资料。
+GENUS NEOSTYLOPYGA SHELFORD, 1911
+APTERISCAAPTERISCAAPTERISCAAPTERISCAAPTERISCAGENUS APTERISCA PRINCIS 1963

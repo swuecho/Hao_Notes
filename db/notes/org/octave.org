@@ -1,0 +1,109 @@
+Octave function
+#+SETUPFILE: C:/Users/echo/Dropbox/org/org-templates/t0.org
+#+LINK_HOME:index.html
+#+LINK_UP:index.html
+
+* stat351_introduction1
+#+BEGIN_SRC emacs-lisp
+    
+Normal random variables
+
+>> normrnd(0,1)
+ans =
+
+   -0.4326
+
+>> normrnd(0,1,2,2)
+ans =
+
+   -1.6656    0.2877
+    0.1253   -1.1465
+
+>> sample=normrnd(0,1,10,1)
+sample =
+
+    0.1139
+    1.0668
+    0.0593
+   -0.0956
+   -0.8323
+    0.2944
+   -1.3362
+    0.7143
+    1.6236
+   -0.6918
+
+ >> mean(sample)
+ans =
+
+    0.0916
+
+   
+ >> std(sample)
+ans =
+
+    0.8987
+
+
+>> sample=normrnd(0,1,1000,1);
+>> mean(sample)
+ans =
+
+    0.0413
+
+>> std(sample)
+ans =
+
+    0.9866
+    
+    
+>> sample=normrnd(0,1,10000,1);
+>> mean(sample)
+ans =
+
+  8.8450e-004
+
+>> std(sample)
+ans =
+
+    1.0026
+
+%Hypothesis Testing
+>>X = [1.0044
+     1.7164
+    -0.0153
+    -0.2653
+     1.4195
+    -1.0534
+     0.2733
+    -0.5767
+     1.1299
+     0.0296];
+ 
+>> mean(X)
+ans =
+
+    0.3662
+    
+normcdf(0,0,1)
+>> normcdf(-1.645,0,1)
+
+ans =
+
+    0.0500
+
+>> normcdf(0,0,1)
+ans =
+
+    0.5000
+
+>> normcdf(1.645,0,1)
+ans =
+
+    0.9500
+    
+>> mean(X)*sqrt(10)
+ans =
+    1.1582
+#+END_SRC 
+* 

@@ -1,0 +1,111 @@
+#+LAST_MOBILE_CHANGE: 2011-12-09 20:37:44
+* Tasks
+** DONE 想想晚上做什么
+** DONE this is 我的地二个测试
+** DONE 今晚要做些什么呢？
+魏丽霞聊天，楚永斌聊天
+然后去睡觉
+** DONE 继续学习表格的使用<2011-01-09 周日>
+
+  
+  [[file:c:/Users/echo/org/table.org]]
+** DONE 
+  
+  [[file:c:/Users/echo/org/table.org]]
+** DONE 继续做论文，查找参考文献。
+** DONE 通知魏丽霞 <2011-01-09 周日>
+** DONE 继续学习 todo的使用？
+** DONE <2011-01-09 周日 10:19> 时间戳
+** DONE <2011-01-09 周日 10:29> %:date 真的很不好学啊
+** DONE <2011-01-09 周日 11:14> 开始使用 todo
+** DONE <2011-01-09 周日 11:17> 哪个时间戳可以用？
+   SCHEDULED: <2011-01-11 周二>
+** DONE <2011-01-14 周五 11:21>
+  时间调整
+** DONE <2011-01-08 周六 12:00>
+   CLOSED: [2011-12-09 Fri 20:37]
+   - CLOSING NOTE [2011-12-09 Fri 20:38]
+** TODO <2011-01-09 周日 12:29> 到底怎么回事呢？
+** TODO <2011-01-09 周日 18:56> factor mailing list
+** DONE <2011-01-11 周二 17:25>  "Data Analysis with Open Source Tools"
+** DONE <2011-01-12 周三 13:14>  haskell mode of emacs
+
+** DONE <2011-01-12 周三 19:30>  learn do, monad, functor.
+** DONE <2011-01-12 周三 23:30> 整理笔记
+** DONE <2011-01-12 周三 18:20> 怎样改变org中字体的颜色，以及 org-mode 下 latex的使用。
+** DONE <2011-01-12 周三 19:18>
+** DONE <2011-01-12 周三 19:29> 13:20
+
+  
+  [[info:org:The%20date/time%20prompt][info:org:The date/time prompt]]
+** DONE <2011-01-13 周四> 怎样合并两个同类型的文件
+  
+  [[file:c:/Users/echo/org/haskell.org::*%20GHC%20user_guides%20pdf][基本使用参考GHC user_guides.pdf]]
+** TODO <2011-01-14 周五 18:30> 农历，公历转换。
+** DONE <2011-01-13 周四 22:15>  制定西南大学本科毕业论文格式 tex文件
+  
+  [[file:c:/Users/echo/org/chinese.tex::begin%20document][file:c:/Users/echo/org/chinese.tex::begin document]]
+** DONE <2011-01-13 周四> 阴历与阳历的转换
+** TODO <2011-01-14 周五 19:40> 学习 python webprogramming，查找去年的看的一本书。
+** TODO <2011-01-16 周日 15:00> 写一个下载整个网站的程序。
+  
+  [[file:c:/Users/echo/org/chinese.pdf]]
+** TODO <2011-01-14 周五> 在emacs中调用其他程序？
+用默认的程序打开指定文件？
+ 
+ [[file:c:/Users/echo/org/chinese.pdf]]
+** TODO <2011-01-15 周六 19:35> list file recursively
+  
+  [[info:emacs:Misc%20Dired%20Features][info:emacs:Misc Dired Features]]
+** TODO <2011-01-15 周六>  how to unload a module in the ghci?
+** TODO <2011-01-15 周六>  use the template to solve the problem, learn regex
+** TODO <2011-01-15 周六> Lcd 写法
+** TODO <2011-01-18 周二 19:30> org 下制表的问题。
+  
+  [[file:c:/Users/echo/sys/毕业论文/郝氏蠊.org]]
+** TODO <2011-01-18 周二> 自动保存浏览的网页。
+** TODO <2011-01-21 周五> 用 haskell 的 parse 模块写个文本转换工具。
+  
+  [[file:c:/Users/echo/org/Homalosipha%20decorata.org::*princis%201966%20p%2049][princis 1966,p.49]]
+** TODO <2011-01-21 周五 18:30> 构造拼写检查器。
+** TODO <2011-03-20 周日> 做一个基于GAE，git的日志和wiki。
+** TODO <2011-03-20 周日> csv 表基本知识。
+** TODO <2011-03-23 周三>
+** DONE <2011-03-23 周三> 
+  
+  [[file:c:/Users/echo/org/blattinae.org::*22%20genus%20Shelfordella%20Adelung%201910][22 genus Shelfordella Adelung, 1910]]
+** DONE <2011-03-24 周四> 学习emacs
+** DONE <2011-03-24 周四>
+** DONE <2011-03-26 周六> 
+ 
+ [[info:org:Remember%20templates][info:org:Remember templates]]
+
+this is very well. I am learning the org-remember.
+** DONE <2011-03-25 周五> 
+
+  
+  [[info:org:Remember%20templates][info:org:Remember templates]]
+
+** DONE <2011-03-25 周五> 
+   我的事情。
+  
+  [[info:org:Remember%20templates][info:org:Remember templates]]
+** DONE <2011-04-06 周三> 我怎么做才好呢？
+  
+  [[file:c:/Users/echo/org/TODO.org::*][<2011-03-25 周五>]]
+** TODO <2011-03-26 周六 17:30>  学习minor or major mode
+  [[file:c:/Users/echo/Downloads/emacsѧϰ/lynnux-emacs_d-1d56df4/lynnux-emacs_d-1d56df4/.emacs.d/plugins/yasnippet/yasnippet.el::the%20list%20shadow%20other%20dir%20s%20snippets%20Also%20the%20first][file:c:/Users/echo/Downloads/emacsѧϰ/lynnux-emacs_d-1d56df4/lynnux-emacs_d-1d56df4/.emacs.d/plugins/yasnippet/yasnippet.el::the list shadow other dir s snippets Also the first]]
+** TODO <2011-03-27 周日 22:30> 做蜚蠊研究状况图。
+** TODO <2011-03-28 周一> 怎样变换行列的表示？
+** TODO <2011-04-10 周日> emacs 矩形操作
+** TODO <2011-05-05 周四>  联系旗袍娃娃，得到其联系方式
+** TODO <2011-06-04 周六>
+** TODO <2011-06-04 周六 08:30> 学习日语
+** TODO <2011-12-09 Fri> cleaning
+
+** DONE <2011-12-10 Sat> 胚胎培养液
+   CLOSED: [2011-12-09 Fri 20:37]
+** TODO <2012-02-23 Thu> 匹配行末的括号，
+** TODO <2012-03-31 Sat> 千只鹤
+** TODO <2012-03-31 Sat> 下载mojocast的全部
+** TODO  在巴黎的屋顶下  北京故事  琼瑶 窗外  余华 在细雨中呼喊  台北人

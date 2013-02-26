@@ -1,0 +1,9 @@
+Matrix Theory
+
+* Singular
+
+A matrix is singular if and only if its determinant is zero.
+
+* Identity matrix
+
+the identity matrix or unit matrix of size n is the n×n square matrix with ones on the main diagonal and zeros elsewhere.

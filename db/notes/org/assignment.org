@@ -1,0 +1,59 @@
+Proposal
+
+* introduction
+** Problem Statement
+Dubia cockroach, /Blaptica dubia/, is raised by pet lovers as pet. However, the cockroach can also
+be used as a food source for reptiles and amphibians. Compared to other food sources, such as crickets, they 
+have a high ratio of protein, easier to maintain and with little odor. As a result,
+it becomes more and more popular in pet lovers. However, there are few scientific 
+researches about this species, although there are plenty of researches about cockroaches, such as 
+/German cockroach/, /Blattella germanicai/, smokybrown cockroach, /Periplaneta
+ fuliginosai/, and American cockroach, /Periplaneta americanai/. To know the biology of this species is the first
+step to raise and utilize this cockroach.
+** Long-term goals
+The long-term goals of this project is to understand the life history of Dubia cockroach, /Blaptica dubia/ and use
+Dubia cockroach as a model to find the best method of instars determination in cockroach. 
+
+** Supporting objectives
+In the project, two objectives will be pursued.
+
+1. Find the best method to determinate instars. 
+
+2. Develop the temperature-dependent development model of Dubia cockroach.
+
+** Hypotheses for objectives
+
+1. The mixture model will be more accurate than other methods such as Dyar's law in instar determination.
+
+2. 25C~30C is the best range for the development of Dubia cockroaches.
+** Review of literature substantiating need for the
+*** Overview of Published work
+**** Temperature on insect development
+Temperature on insect development is rather a basic topic in insect biology.(insect outline)
+Usually, Physiology time. degree days.
+The profoud study of () in temperature of cockroaches provide the baseline in the temperatuer setting of our
+research.
+
+**** instar determination
+The research of instar determination of cockroaches is relatively little compared with other species.(insect morphetics)\
+Instead of cortex, Mophology of Cercus was investigated.(cercus). 
+
+mayfly. XXX
+
+**** mixture model analysis
+The appication of mixture model analysis in insect instars determination is very few.() However, there are numbers of
+tutorial and software packages for mixture model anaylsis. 
+
+*** Work of key project personnel
+** Prelimnary data
+* Rational 
+* Approaches
+** Description of the activities proposed and the sequence of activities
+** Methods for each objective; feasibility of methods
+** Expected outcomes
+** Means by which results will be analyzed, assessed, or interpreted
+** How results will be used
+** Possible pitfalls
+** Limitations to proposed procedures
+** Precautions and hazards: materials, procedures, situations, or activities ...
+** Timeline of onjectives and production of deliverables with annual milestones

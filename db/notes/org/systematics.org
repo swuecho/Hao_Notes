@@ -1,0 +1,51 @@
+* Dermaptera: Earwings 1100 spp.
+Derm = skin, petera = wing
+* Phthiraptera
+** Amblycera :: chewing mouthparts
+*** Menoponidae :: Head triangular, Maxillary palps present
+** Ischnocera :: chewing mouthparts
+*** Philopteridae :: 2 tarsal claws, 5-segmented antennae
+*** Trichodectidae :: 1 tarsal claws, 3-segmented antennae
+** Anoplura :: sucking mouthparts
+*** Haematopinidae :: eyes lacking; no scales; sclerotized plates on abdomen.
+*** Pediculidae :: eyes or eye tubercles present; no scales.
+*** Pithiridae :: claws of middle and hind legs large; lateral lobes on abdomen; 3 spiracles on each sides of abdominal segment 1.
+
+* Lecture test I
+
+** Distinguish 
+
+*** Calopterygidae-Lestidae
+Caloptergidae:: 10 or more antenodal crossveins
+Lestidae:: 2 antenodal crossveins, M3 and Rs arising nearer arculus than nodus.
+
+** terminology
+1. Mantophasmatodea
+2. Paratype
+3. Arculus
+4. Elateriform
+5. Furcula
+6. Survey collection
+7. Ovoviviparous
+8. Tarsal formula
+9. Neopterous exopterygote
+10. Entognathous mouthparts
+11. subimago
+12. Prognathous head
+** subfix
++ oidea::superfamily
++ idae::family
++ inae::subfamily
++ ini::tribe
+
+** Orthopteroid orders and their characteristics
+The orthopteroid orders include: Plecoptera, Orthoptera, Phasmatodea, Grylloblattodea, Mantophasmatodea, Mantodea,
+Blattodea, Dermaptera, Emboiidina, Isoptera, and Zoraptera.
+1. Primitive "generalized" mandibulate mothparts.
+2. Wings with highly complex venation and hindwing with a large anal lobe.
+3. Many malpighian tubles.
+4. Presence of cerci.
+5. Ventral chain of nerve ganglia arranged segmentally in thorax and abdomen.
+* 问题总结
+** 变态类型
+Paurometabolous 

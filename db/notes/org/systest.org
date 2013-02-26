@@ -1,0 +1,102 @@
+* Distinguish
+** Chrysopidae VS Hemerobiidae
++ Chrysopidae :: Costal crossveins not forked
++ Hemerobiidae :: Costal crossveins forked.
+** Coccidae VS Diaspididae
++ Coccidae :: Triangular anal plates present on dorsum.
++ Diaspididae :: ?
+** Entiminae VS Curculioniae
++ Entiminae ::  Snout usually short and broad
++ Curculioninae :: Snout long
+** Phlaeothripidae VS Thripidae
++ Phlaeeothripidae :: Last abdominal segment tubular
++ Thripidae ::  Last abdominal segment conical or rounded
+** Cantharidae VS Lampyridae
++ Cantharidae :: Head protruding from flatten pronotum
++ Lampyridae :: Head concealed from above by flattened pronotum
+** Miridae VS Lygaeidae
++ Miridae ::  Cuneus present; Most with 1-2 closed cells in wing membrane.
++ Lygaeidae :: Cuneus absent; 4 or 5 veins in wing membrane.
+** /Ctenocephalides Canis/ VS /Cetnocephalides felis/
++ Canis :: Spine I of genal comb distinctly shorter than spine II
++ Felis :: Spine I and Spine II of general comb approximately equal in length
+** Mantispidae VS Raphidiidae
++ Mantispidae :: Leg arise at anterior of prothorax; neck region absent.
++ Raphidiidae :: Leg arise at the back of the prothorax; neck region present.
+** Phylloxeridae VS Adelgidae
++ Phylloxeridae :: Cu1 and Cu2 with a common base.
++ Adelgidae :: Cu2 vein sperate at the base
+** Flattidae VS Acanalonlidae
++ Flattidae :: Wings with a marginal row of cells in costal area.
++ Acanaloniidae :: Wings with a reticulated patterns of veins and crossveins.
+** Philoperidae VS Trichodectidae
++ Philoperidae :: 5-segmented antennae, 2 tarsal claws.
++ Trichodectidae :: 3-segmented antennae, 1 tarsal claws.
+** Dytiscidae VS Hydrophylidae
++ Dytiscidae :: Antennae threadlike, longer than maxillary palps
++ Hydrophylidae :: Antennae with 4-seg club, usually well concealed, shorter than maxillary palpi.
+** Hispinae VS Cassidinae
++ Cassidinae :: Flanged pronotum and elytra
++ Hispinae :: not as above
+** Ascalaphidae VS Myrmeleontidae
++ Ascalaphidae :: Truss cell in wing 2-3 times as long as wide.
++ Myrmeleontidae :: Truss cell in wing many times as long as wide.
+** Psocoptera VS Phthiraptera
+** Aphididae VS Eriosomatidae
++ Aphididae :: M vein branched into two veins.
++ Eriosomatidae :: M vein not forked.
+** Cydnidae VS Thyreocoridae
++ Cydnidae :: wing membrane exposed
++ Thyrecocoridae :: Wing membrane not visible
+** Rutelinae VS Cetoniinae
++ Cetoniinae :: Usually with a humeral notch
++ Rutelinae :: not as above.
+** Reduviidae VS Nabidae
++ Reduviidae :: long head, with neck
++ Nabidae :: Many veins in membranous portion of hemelytra
+** Parandrinae VS Cerambycinae
++ Parandrinae :: tarsi segment 5-5-5
++ Cerambycinae :: not as above
+** Panorpidae VS Bittacidae
++ Panorpidae :: 5th tarsal segment incapable of being folded back on 4th
++ Bittacidae :: 5th tarsal segment capable of being folded back on 4th.
+** Scutelleridae VS Pentatomidae
++ Scutelleridae :: large rounded scutellum
++ Pentatomindae :: large triangular scutellum
+** Labiidae VS Anisolabididae
++ Labiidae :: not as above
++ Anisolabididae :: usually wingless, black or blackish brown
+* Define and give examples
+** Secondarily wingless
+
+** Flat bugs
+
+** Heteromerous tarsi
+
+** Traumatic ensemination
+
+** Cuneus
+
+** Sternorrhyncha
+
+** Adephaga
+
+** Genal comb
+
+** Unequal tarsal claw
+
+Tarsal claw are not equal in size. ex. Rutelinae.
+
+** Emarginate eyse
+
+* Vocabulary
+
+Nerve wing, elytra, prehensal tarsi, cornicles, Megaloptera,
+Hemelytronn, Physopoda, booklice, Chagas disease, ocular bristle,
+hangingflies, plague, toe biters, Amblycera, snakeflies, fringe-wings,
+crabs, anal forceps, Terebrantia, skin wing, and Cryptognathous mouthparts.
+
+Coleoptera, Phthiraptera, Hemiptera, Neuroptera, Dermaptera, Mecoptera,
+Thysanoptera, Siphonaptera, Psocoptera
+
+*  List the hemipteroid orders of insects and the characters they have in common.
