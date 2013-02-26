@@ -1,0 +1,5 @@
+<p>This is the list of notes</p>
+
+<% FOREACH file IN dirs %>                 
+       The variable is set to <% file %>
+<% END %>

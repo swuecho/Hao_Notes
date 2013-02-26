@@ -1,0 +1,79 @@
+package Hao;
+
+use Dancer2 ':syntax';
+use Path::Tiny;
+use Text::Markdown 'markdown';
+our $VERSION = '0.1';
+#
+# my $runner=runner();
+# my $project_home =$runner->location;
+
+my $home = config->{appdir}; 
+get '/' => sub {
+    template 'index';
+};
+
+before => sub { var time => scalar(localtime) };
+
+get '/hello/:name' => sub {
+        my $name = params->{name};
+        template 'hello.tt', { name => $name };
+};
+
+# get app name
+
+get '/appname' => sub {
+	return $home ."/db";
+};
+
+# me
+prefix '/me' => sub {
+	get '/cv' => sub {
+		return 'this is my resume';
+	};
+
+	get '/twitter'=> sub {
+               redirect 'http://twitter.com/me';
+        };
+};
+
+# /blog
+prefix '/notes' => sub {
+	get '/' => sub {
+		my @dirs_obj = path($home)->child("db")->child("notes")->children;
+		my @dirs = map { $_->basename } @dirs_obj;
+		return template 'dir.tt', { dirs => \@dirs }		
+	};
+	get '/:name' => sub {
+	my $filename = params->{name};
+	my $content = path($home)->child("db")->child("notes")->child($filename)->slurp_utf8;
+	if ($filename =~/md/) {
+		 $content = markdown($content);
+	}
+       
+	return template 'md.tt', { content => $content};
+	};
+	
+};
+
+
+# /todo
+
+prefix '/todo' => sub {
+
+};
+
+get '/*/*' => sub {
+        my ($action, $id) = splat;
+        if (my $action eq 'view') {
+            return display_item($id);
+        } elsif ($action eq 'delete') {
+            return delete_item($id);
+        } else {
+            status 'not_found';
+            return "What?";
+        }
+    };
+
+
+true;

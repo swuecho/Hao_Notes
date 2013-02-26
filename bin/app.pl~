@@ -1,0 +1,39 @@
+#!/usr/bin/env perl
+use Dancer2;
+use Hao;
+
+# get app name
+
+get '/appname' => sub {
+	return "the app name is " . config->{appname} . "using " . int(dancer2_version);
+};
+
+# me
+prefix '/me' => sub {
+	get '/cv' => sub {
+		return 'this is my resume';
+	};
+
+	get '/twitter'=> sub {
+               redirect 'http://twitter.com/me';
+        };
+};
+
+# /blog
+prefix '/blog' => sub {
+
+	get '/name' => sub {
+	return template 'some_view', { token => 'value'};
+	};
+	
+};
+
+
+# /todo
+
+prefix '/todo' => sub {
+
+};
+
+	 
+dance;

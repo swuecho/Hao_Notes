@@ -1,0 +1,3 @@
+[% FOREACH file IN dirs %]                
+       <h3><a href= "[% request.uri_base %]/notes/[% dir %]/[% file %]"> [% file %] </a></h3>
+[% END %]
