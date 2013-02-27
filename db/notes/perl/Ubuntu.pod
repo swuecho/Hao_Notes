@@ -1,0 +1,13 @@
+=pod
+
+=head1 apt-get
+
+    apt-get install
+    apt-get update
+    apt-get upgrade
+    
+
+=head2 apt-cache
+
+    apt-cache search
+    apt-cache show
