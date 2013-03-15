@@ -7,7 +7,10 @@
 
 =over 4
 
-=item add documentation
+=item add syntax highlight for pod2html
+
+=item add documentation to code
+
 =item add recursive dir support
 
 =item add session support
