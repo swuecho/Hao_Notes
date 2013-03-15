@@ -1,0 +1,16 @@
+import funciton
+* typeof()
+
+
+## IO
+### browser
+* document.write()
+* alert()
+
+### node
+
+* console.log()
+
+## control structure
+
+if () {} 

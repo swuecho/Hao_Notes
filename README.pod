@@ -1,0 +1,11 @@
+=pod
+
+=head1 Notes render 
+
+put the notes in md or pod and it will display in /notes routes
+
+=head2 TODO
+
+add recursive dir support
+
+

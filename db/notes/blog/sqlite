@@ -1,0 +1,10 @@
+sqlite tutorial
+=========
+basic command
+------------------
+ >sqlite3 stock.db
+
+>sqlite> .mode column  
+>sqlite> .headers on
+
+ > select * from stock

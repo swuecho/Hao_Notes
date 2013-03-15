@@ -4,7 +4,11 @@
 
 # Your application's name
 appname: "Hao"
+# 
+auto_reload: 1,
 
+startup_info: 1
+traces: 1 
 # The default layout to use for your application (located in
 # views/layouts/main.tt)
 layout: "main"
@@ -27,3 +31,12 @@ template: "tiny"
 #    start_tag: '[%'
 #    end_tag:   '%]'
 
+plack_middlewares:
+  -
+    - Debug
+    - panels
+    -
+      - Parameters
+      - Dancer::Version
+      - Dancer::Settings
+      - Memory

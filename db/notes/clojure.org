@@ -1,0 +1,6 @@
+Clojure
+
+** Sequences
+Examples of functions and macros that return lazy sequences include: 
+
+cache-seq, concat, cycle, distinct, drop, drop-last, drop-while, filter, for, interleave, interpose, iterate, lazy-cat, lazy-seq, line-seq, map, partition, range, re-seq, remove, repeat, replicate, take, take-nth, take-while and tree-seq.

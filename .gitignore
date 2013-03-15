@@ -1,0 +1,4 @@
+*~
+*.LOG
+.tidyall.d/*/*
+.build/*
