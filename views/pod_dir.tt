@@ -1,0 +1,5 @@
+
+[% FOREACH module IN modules %]                
+      <a href= "[% request.uri_base %]/pod/[% module %]"> [% module %] </a>
+      </br>
+[% END %]

@@ -6,9 +6,19 @@ use Pod::Simple::Search;
 use Mojo::DOM;
 our $VERSION = '0.1';
 
-#my $home = config->{appdir};
-#my $dir_notes =  Path::Tiny::path($home)->child("db")->child("notes");
+my $home  = config->{appdir};
+my @lines = Path::Tiny::path($home)->child("db")->child("cpan.list")->lines;
+
 # the possible path of pod file;
+
+# get all the modules
+
+my @modules;
+
+for my $line (@lines) {
+    my @fields = split /\|/, $line;
+    push @modules, $fields[0];
+}
 
 my @PATHS = map { $_, "$_/pods" } @INC;
 
@@ -39,6 +49,12 @@ sub path2content {
 }
 
 prefix '/pod' => sub {
+
+    get '/' => sub {
+        return template 'pod_dir.tt', { modules => \@modules };
+
+    };
+
     get '/:module' => sub {
         my $module = param('module');
         $module =~ s!/!::!g;

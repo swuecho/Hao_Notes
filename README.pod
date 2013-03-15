@@ -1,11 +1,36 @@
 =pod
 
-=head1 Notes render 
+=head1 Dancer app
 
-put the notes in md or pod and it will display in /notes routes
 
 =head2 TODO
 
-add recursive dir support
+=over 4
+
+=item add documentation
+=item add recursive dir support
+
+=item add session support
+
+=item add blog and use mongoDB as its backend
+
+=back
+
+
+
+=head2 DONE
+
+=over 4
+
+=item display subdir and files
+
+render files based on extension (currently support markdown, org and pod)
+
+=item add the module dir and render pod
+
+=back
+
+=cut
+
 
 
