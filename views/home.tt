@@ -1,0 +1,8 @@
+<h1>Home</h1>
+</br>
+<h2> <a href= "[% request.uri_base %]/notes/"> Hao's Notes  </a> </h2>
+</br> 
+<h2> <a href= "[% request.uri_base %]/pod/"> Perl Doc </a> </h2>
+</br>
+</br>
+
