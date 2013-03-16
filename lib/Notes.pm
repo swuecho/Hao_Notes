@@ -1,6 +1,7 @@
 package Notes;
 use Dancer2 ':syntax';
 use Text::Markdown 'markdown';
+use utf8::all;
 use Path::Tiny ();    # this stop import anythings
 use Pod::Simple::XHTML;
 our $VERSION = '0.1';
@@ -17,9 +18,6 @@ sub get_content {
 sub trans_content {
     my $filename = shift;
     my $content  = shift;
-    if ( $filename =~ /md/ ) {
-        return $content = markdown($content);
-    }
 
     if ( $filename =~ /pod$/ or $filename =~ /pm$/ ) {
         my $psx = Pod::Simple::XHTML->new;
@@ -27,6 +25,7 @@ sub trans_content {
         $psx->parse_string_document($content);
         return $html;
     }
+    return $content = markdown($content);
 
 }
 

@@ -10,7 +10,7 @@ my $home = config->{appdir};
 # get app name
 
 get '/' => sub {
-    return $home . "/db";
+    return template 'home.tt';
 
     #TODO: display more env variables
 };
