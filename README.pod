@@ -18,6 +18,8 @@ notes display and perldoc render
 
 =item add blog and use mongoDB as its backend
 
+=item utf8 problems
+
 =back
 
 
