@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Login</title>
+  </head>
+
+  <body>
+    <h2>Signup</h2>
+
+
+ <form method="post">
+      <table>
+        <tr>
+          <td>
+          username <input type="text" name="username" value="">
+          </td>
+          <td class="error">
+          </td>
+        </tr>
+
+        <tr>
+          
+          <td>
+          Password  <input type="password" name="password" value="">
+          </td>
+          <td class="error">
+          </td>
+        </tr>
+
+      </table>
+   <input type="submit">
+</form>
+
+  </body>
+
+</html>
+

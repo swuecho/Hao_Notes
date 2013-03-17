@@ -1,6 +1,7 @@
 :package Blog::Posts;
 use Fun;
 use MongoDB;
+use Dancer2::Core::Time;
 my $db = "blog";
 my $collection = "posts";
 my $client = MongoDB::MongoClient->new( host => 'localhost', port => 27017 );
@@ -9,7 +10,7 @@ my $posts_collection = $database->get_collection($collection);
 
 fun find_by_date_descending($limit) {
         my @posts = $posts_collection.find()->sort({"time" => -1})->limit(limit)->all();
-        return @posts;
+        return \@posts;
 }
 
 fun add_post($title, $body, $tags, $username) {

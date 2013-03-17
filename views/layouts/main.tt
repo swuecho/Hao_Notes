@@ -4,13 +4,12 @@
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=[% settings.charset %]" />
 <title>Hao</title>
-<link rel="stylesheet" href="[% request.uri_base %]/css/markdown.css" />
+<link rel="stylesheet" href="[% request.uri_base %]/css/style.css" />
 </head>
 <body>
 [% content %]
 
 <div id="footer">
-Happy dancing!
 </div>
 </body>
 </html>

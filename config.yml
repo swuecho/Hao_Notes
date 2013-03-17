@@ -5,10 +5,6 @@
 # Your application's name
 appname: "Hao"
 # 
-auto_reload: 1,
-
-startup_info: 1
-traces: 1 
 # The default layout to use for your application (located in
 # views/layouts/main.tt)
 layout: "main"
@@ -23,20 +19,16 @@ charset: "UTF-8"
 # template_toolkit: TT
 
 template: "tiny"
-# if not work and then change to template_toolkit
-#template: "template_toolkit"
-#engines:
-#  template_toolkit:
-#    encoding:  'utf8'
-#    start_tag: '[%'
-#    end_tag:   '%]'
 
-plack_middlewares:
-  -
-    - Debug
-    - panels
-    -
-      - Parameters
-      - Dancer::Version
-      - Dancer::Settings
-      - Memory
+#session: "YAML"
+#session_dir: "/tmp/dancer-sessions"
+session: MongoDB
+engines:
+  session:
+    MongoDB:
+      database_name: blog
+      client_options:
+        host: mongodb://localhost:27017
+
+
+
