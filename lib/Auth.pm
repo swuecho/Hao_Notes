@@ -1,7 +1,7 @@
 use Dancer2;
 use Dancer2::Session::MongoDB;
 use User;
-
+use Carp;
 get '/login' => sub {
     return template 'auth/login.tt';
 };
@@ -13,39 +13,39 @@ get '/signup' => sub {
 post '/signup' => sub {
     my $username = param 'username';
     my $password = param 'password';
-    my $id = add_user($username,$password);
-    if (not $id) { warn 'duplicated username!'}
-    redirect 'login';
+    my $id       = add_user( $username, $password );
+    if ( not $id ) { carp 'duplicated username!' }
+    redirect '/login';
 };
 
 post '/login' => sub {
     my $username = param 'username';
     my $password = param 'password';
-    my $user = validate_login($username,$password);
+    my $user     = validate_login( $username, $password );
     if ($user) {
-                session username => $user->{_id};
-                redirect '/'; 
-    } else {
+        session username => $user->{_id};
+        redirect '/';
+    }
+    else {
         redirect '/login';
     }
-    };
+};
 
 get '/logout' => sub {
-        my $id = session->id;
-        context->destroy_session;
-        return $id;
- };
-
+    my $id = session->id;
+    session->delete;
+    return $id;
+};
 
 get '/' => sub {
-# if  user is present in the session, let him go, otherwise redirect to
-# /login
-      if (not session('username')) {
-            redirect '/login';
-        }
-      return template 'home.tt';  
 
-    };
+    # if  user is present in the session, let him go, otherwise redirect to
+    # /login
+    if ( not session('username') ) {
+        redirect '/login';
+    }
+    return template 'home.tt';
 
+};
 
 1;

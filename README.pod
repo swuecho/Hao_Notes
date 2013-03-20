@@ -14,11 +14,15 @@ notes display and perldoc render
 
 =item add recursive dir support
 
-=item add session support
+=item debug information
 
 =item add blog and use mongoDB as its backend
 
 =item utf8 problems
+
+=item plackup middleware support
+
+=item d3
 
 =back
 
@@ -33,6 +37,10 @@ notes display and perldoc render
 render files based on extension (currently support markdown, org and pod)
 
 =item add the module dir and render pod
+
+=item add session support
+
+Dancer2::Session::MongoDB
 
 =back
 

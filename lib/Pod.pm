@@ -51,7 +51,7 @@ sub path2content {
 prefix '/pod' => sub {
 
     get '/' => sub {
-        return template 'pod_dir.tt', { modules => \@modules };
+        return template 'Pod/pod_dir.tt', { modules => \@modules };
 
     };
 
@@ -61,7 +61,7 @@ prefix '/pod' => sub {
         my $path = Pod::Simple::Search->new->find( $module, @PATHS );
         my $content = path2content($path);
         $content = rewrite_cpan_link($content);
-        return template 'content.tt', { content => $content };
+        return template 'Pod/content.tt', { content => $content };
 
     };
 

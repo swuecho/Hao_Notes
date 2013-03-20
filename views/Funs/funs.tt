@@ -1,0 +1,10 @@
+<form method = "post">
+Package: <input type="text" name="package"><br>
+Fuction: <input type="text" name="function">
+<input type="submit" value="Submit">
+</form> 
+
+
+[% FOREACH res IN result %]                
+        res
+[% END %]

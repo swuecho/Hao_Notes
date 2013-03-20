@@ -26,7 +26,7 @@ show_errors: 1
 # OR TINY KITTENS SHALL DIE WITH LOTS OF SUFFERING
 auto_reload: 1
 
-trace : 1
+traces : 1
 startup_info : 1
 plack_middlewares:
       -
