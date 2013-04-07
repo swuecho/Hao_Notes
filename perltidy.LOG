@@ -11,18 +11,9 @@ ci = levels of continuation indentation; bk = 1 if in BLOCK, 0 if not.
 in:out indent c b  nesting   code + messages; (messages begin with >>>)
 lines  levels i k            (code begins with one '.' per indent level)
 ------  ----- - - --------   -------------------------------------------
-L1:1     i0:0 0 1            package User;
-L13:13   i0:0 0 1            >>>WARNING: syntax error at ') {', didn't see one of: case elsif for foreach given if switch unless until when while
-L25:24   i0:0 1 1 {          >>>WARNING: syntax error at ') {', didn't see one of: case elsif for foreach given if switch unless until when while
-L33:32   i3:2 0 1 {{         >>>Start indentation disagreement: input=3; output=2
-L34:33   i1:1 0 0 {{         >>>End indentation disagreement from input line 33
-L39:37   i0:0 1 1            >>>Last line
+L12:12   i0:0 0 1            >>>Last line
 
-First indentation disagreement seen at input line 33
-Last indentation disagreement seen at input line 33
-Note: Indentation disagreement detection is not accurate for outdenting and -lp.
+No indentation disagreement seen
 
 No lines exceeded 80 characters
-  Maximum output line length was 79 at line 9
-Suggest including 'use warnings;'
-Suggest including 'use strict;'
+  Maximum output line length was 73 at line 12
