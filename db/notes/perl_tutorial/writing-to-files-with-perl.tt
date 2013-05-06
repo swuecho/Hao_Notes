@@ -1,21 +1,8 @@
-=title Writing to files with Perl
-=timestamp 2012-12-20T16:45:56
-=indexes open, close, write, die, open or die, >, encoding, UTF-8
-=status show
-=books beginner_book
-=author szabgab
-=index 1
-=archive 1
-=feed 1
-=comments 1
-=social 1
-
-=abstract start
+# 文件读写
 
 
 许多Perl程序涉及文本处理，我们接下来学习怎么写入文件。
 
-=abstract end
 
 文件的读写，其实是操作系统的事情。Perl 只是告诉操作系统你想做的，在写入之前，要先打开，
 Perl 中 用<hl>open</hl> 函数。打开之后，进行相应的操作，然后关闭。
