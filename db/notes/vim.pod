@@ -38,3 +38,17 @@ this is the second item
 probably more are there.:x
 
 =cut
+
+
+=head1 package management pathogen
+
+    1.download and install the pathogen
+
+    2.git clone to ~/.vim/bundle/ dir
+
+
+=head1 tabs
+    1. vim -p *.txt
+    2. switch between different tabs. gt
+    3. :tabnew open a empty tab :tabe fn open a fn in new tab
+    4.
