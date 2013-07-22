@@ -4,11 +4,12 @@
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=[% settings.charset %]" />
 <title>Hao</title>
-<link rel="stylesheet" href="[% request.uri_base %]/css/style.css" />
+<link rel="stylesheet" href="[% request.uri_base %]/css/bootstrap/css/bootstrap.css" />
 </head>
 <body>
+<div class="container">
 [% content %]
-
+<div>
 <div id="footer">
 </div>
 </body>

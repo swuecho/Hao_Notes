@@ -1,12 +1,11 @@
 
 <table class="table table-striped">
-<caption align="top"><h1> article list</h1></caption>
-<tbody>
-<tr><th>Title</th></tr>
 
+<tbody>
 
 [% FOREACH article IN articles %]
     <tr><td><a href="http://www.mitbbs.com[% article.link %]" >  [% article.title %] </a> </td></tr>
+    <tr> <td> [% article.content %] </td> </tr>
 [% END %]
 
 
