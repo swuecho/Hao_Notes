@@ -1,4 +1,4 @@
-:package Blog::Posts;
+package Blog::Posts;
 use Fun;
 use MongoDB;
 use Dancer2::Core::Time;
