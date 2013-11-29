@@ -8,11 +8,13 @@ notes display and perldoc render
 
 =over 4
 
+=item add gitignore
+
+=item add recursive dir support
+
 =item add syntax highlight for pod2html
 
 =item add documentation to code
-
-=item add recursive dir support
 
 =item debug information
 
@@ -23,6 +25,8 @@ notes display and perldoc render
 =item plackup middleware support
 
 =item d3
+
+=item add todolist app
 
 =back
 
