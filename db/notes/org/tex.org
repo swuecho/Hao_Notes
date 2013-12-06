@@ -1,4 +1,0 @@
-change page setting;;
-\usepackage[top=0.25in, bottom=0.25in, left=1in, right=1in]{geometry}
-不显示日期：
-\date{}
