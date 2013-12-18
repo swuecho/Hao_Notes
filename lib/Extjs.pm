@@ -1,8 +1,5 @@
-package linechart;
+package Extjs;
 use Dancer2;
-set serializer => 'JSON';
-
-our $VERSION = '0.1';
 
 get '/count' => sub {
     my ($min,$max) = (150,180); 
